@@ -96,14 +96,5 @@ Contributions welcome! Please:
 2. Create a feature branch
 3. Submit a pull request
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details
-
-## 👨‍💻 Contact
-
-**Developer**: [Hardik Parmar]  
-**Email**: hardikjparmar7@gmail.com  
----
 
 Made with ❤️ for learners worldwide
