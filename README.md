@@ -5,6 +5,8 @@ An AI-powered educational tool that generates personalized learning paths based 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/streamlit-1.28%2B-red)
 
+![App Screenshot](app.png)
+
 ## 📋 Challenge Overview
 
 Students struggle to identify effective learning paths tailored to their current knowledge and goals. This tool solves that by:
